@@ -3,7 +3,6 @@
 > **Record revenue, shrinking profit. Which products are to blame, and what should management do?**
 > An end-to-end analysis of 56,046 AdventureWorks order lines using **PostgreSQL, Python (Pandas) and Power BI (DAX)**, finishing in a decision memo for the CFO.
 
-![Executive dashboard](images/dashboard_overview.png)
 
 ## The headline finding
 
@@ -101,4 +100,4 @@ profitlens/
 ## About
 
 **[Your Name]** | Data Analyst | Bengaluru, India
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:you@example.com)
+[LinkedIn](www.linkedin.com/in/saidivyashree-bandi) · [Email](saidivyashree.0311@gmail.com)
