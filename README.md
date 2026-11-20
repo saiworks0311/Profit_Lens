@@ -19,7 +19,6 @@ The business earned **$24.91M revenue and $10.46M gross profit (41.97% margin)**
 - **Wider issue:** 48 bike SKUs sit below 40% margin and make up **58% of revenue**.
 - **Mix drift:** Touring (37.8% margin) grew from 15% to 26% of revenue between 2016 and H1 2017.
 
-![Strategic quadrant matrix](images/profitlens_strategic_quadrant_matrix.png)
 
 ## What I recommend (see the [CFO decision brief](docs/CFO_Decision_Brief.pdf))
 
