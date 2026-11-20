@@ -5,6 +5,9 @@
 
 
 ## The headline finding
+## Dashboard Preview
+
+![ProfitLens Dashboard](<Docs/Screenshot 2026-11-20 131234.png>)
 
 The business earned **$24.91M revenue and $10.46M gross profit (41.97% margin)** between Jan 2015 and Jun 2017. Bikes are **94.9%** of revenue, so margin problems are bike problems:
 
