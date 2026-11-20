@@ -4,10 +4,10 @@
 > An end-to-end analysis of 56,046 AdventureWorks order lines using **PostgreSQL, Python (Pandas) and Power BI (DAX)**, finishing in a decision memo for the CFO.
 
 
-## The headline finding
 ## Dashboard Preview
 
 ![ProfitLens Dashboard](<Docs/Screenshot 2026-11-20 131234.png>)
+## The headline finding
 
 The business earned **$24.91M revenue and $10.46M gross profit (41.97% margin)** between Jan 2015 and Jun 2017. Bikes are **94.9%** of revenue, so margin problems are bike problems:
 
