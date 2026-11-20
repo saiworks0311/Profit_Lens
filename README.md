@@ -20,7 +20,7 @@ The business earned **$24.91M revenue and $10.46M gross profit (41.97% margin)**
 - **Mix drift:** Touring (37.8% margin) grew from 15% to 26% of revenue between 2016 and H1 2017.
 
 
-## What I recommend (see the [CFO decision brief](docs/CFO_Decision_Brief.pdf))
+## What I recommend (see the [CFO decision brief](ProfitLens CFO Decision Brief.docx))
 
 1. **Reprice** the 9 Road SKUs by 5% as a 90-day pilot. Worth about **$65K/year** at the 2017 run rate (up to $278K on 2015 to 2017 volumes). Profit improves as long as unit volume falls less than about 11%.
 2. **Promote and protect** Mountain-200: no discounting, supply priority, and favor Mountain over Touring in promotions.
